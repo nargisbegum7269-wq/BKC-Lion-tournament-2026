@@ -1,0 +1,6 @@
+{
+  "name": "FF Esports",
+  "description": "Free Fire Esports tournament platform for Bangladesh gamers featuring match registration, Nagad & Rocket wallet system, Booyah proof submissions, leaderboard, and admin tournament controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
